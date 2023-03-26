@@ -1,3 +1,4 @@
+
 import 'package:database/practice.dart';
 //import 'package:firebase_core/firebase_core.dart';
 //import 'package:firebase_database/firebase_database.dart';
@@ -64,7 +65,6 @@ class _DatabaseState extends State<Database> {
           //         'pass': passController.text
           //       });
           //     },
-          //     child: Text("एक समय की बात है, एक गांव में ढेर सारे मुर्गे रहते थे। गांव के बच्चे ने किसी एक मुर्गे को तंग कर दिया था। मुर्गा परेशान हो गया, उसने सोचा अगले दिन सुबह मैं आवाज नहीं करूंगा। सब सोते रहेंगे तब मेरी अहमियत सबको समझ में आएगी, और मुझे तंग नहीं करेंगे। मुर्गा अगली सुबह कुछ नहीं बोला।  सभी लोग समय पर उठ कर अपने-अपने काम में लग गए इस पर मुर्गे को समझ में आ गया कि किसी के बिना कोई काम नहीं रुकता। सबका काम चलता रहता है\n\nनैतिक शिक्षा – घमंड नहीं करना चाहिए आपकी अहमियत लोगो को बिना बताये पता चलता है।\n\nMoral of this short hindi story – Never be too arrogant. Your work should tell your importance to the world.")),
           SizedBox(
             height: 20,
           ),
