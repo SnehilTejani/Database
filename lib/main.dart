@@ -36,7 +36,7 @@ class _DatabaseState extends State<Database> {
             decoration: InputDecoration(hintText: "Email"),
           ),
           SizedBox(
-            height: 20,
+            //height: 20,
           ),
           TextField(
             controller: passController,
